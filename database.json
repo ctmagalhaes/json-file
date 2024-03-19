@@ -5,7 +5,28 @@
             "book": "Máquina de Fogo",
             "year": "1961",
             "author": "António Gedeão",
-            "content": "Vês aquele par sentado além ao fundo?\nVês?\nAlheio a tudo quanto vai pelo mundo,\nsimboliza o amor.\nPodia o céu ruir e a terra abrir-se,\numa chuva de lodo e sangue arrasar tudo\nque eles continuariam a sorrir-se."
+            "content": ""
+        },
+        {
+            "title": "1.",
+            "book": "Sétimo dia",
+            "year": "2021",
+            "author": "Daniel Faria",
+            "content": ""
+        },
+        {
+            "title": "Apesar das Ruínas e da morte",
+            "book": "Poesia",
+            "year": "1944",
+            "author": "Sophia de Mello Breyner Andresen",
+            "content": "Apesar das ruínas e da morte,\nOnde sempre acabou cada ilusão,\nA força dos meus sonhos é tão forte,\nQue de tudo renasce a exaltação\nE nunca as minhas mãos ficam vazias."
+        },
+        {
+            "title": "Vimos do Tempo da Falta Mínima",
+            "book": "Vinte e Nove Poemas",
+            "year": "1978",
+            "author": "Jorge Miguel Fernandes Jorge",
+            "content": ""
         }
     ]
 }
