@@ -5,28 +5,41 @@
             "book": "Máquina de Fogo",
             "year": "1961",
             "author": "António Gedeão",
-            "content": ""
+            "content": "(…)\nVês aquele par sentado além ao fundo?\nVês?\nAlheio a tudo quanto vai pelo mundo,\nsimboliza o amor.\nPodia o céu ruir e a terra abrir-se,\numa chuva de lodo e sangue arrasar tudo\nque eles continuariam a sorrir-se.\n(…)",
+            "selected":"Podia o céu ruir e a terra abrir-se"
         },
         {
             "title": "1.",
             "book": "Sétimo dia",
             "year": "2021",
             "author": "Daniel Faria",
-            "content": ""
+            "content": "Mãe, sinto o sangue tremer. É como se o coração estivesse parado. Eu lembro-me da nossa casa. Eu sinto no corpo o coração a ruir.\n(…)",
+            "selected":"Eu sinto no corpo o coração a ruir"
         },
         {
             "title": "Apesar das Ruínas e da morte",
             "book": "Poesia",
             "year": "1944",
             "author": "Sophia de Mello Breyner Andresen",
-            "content": "Apesar das ruínas e da morte,\nOnde sempre acabou cada ilusão,\nA força dos meus sonhos é tão forte,\nQue de tudo renasce a exaltação\nE nunca as minhas mãos ficam vazias."
+            "content": "Apesar das ruínas e da morte,\nOnde sempre acabou cada ilusão,\nA força dos meus sonhos é tão forte,\nQue de tudo renasce a exaltação\nE nunca as minhas mãos ficam vazias.",
+            "selected": "Apesar das ruínas e da morte"
         },
         {
             "title": "Vimos do Tempo da Falta Mínima",
             "book": "Vinte e Nove Poemas",
             "year": "1978",
             "author": "Jorge Miguel Fernandes Jorge",
-            "content": ""
+            "content": "(…)\na ruína compreende tudo.\nCompreender quer dizer abraçar\n(linhas e cruzamentos na procura da folha)\n(…)",
+            "selected": "Todas as memórias partilhámos. A ruína compreende tudo"
+        },
+        {
+            "title": "Ouvindo Beethoven",
+            "book": "Poemas Possíveis",
+            "year": "1966",
+            "author": "José Saramago",
+            "content": "(…)\nCercados de bastões e fortalezas,\nHão-de cair em estrondo os altos muros\nE chegará o dia das surpresas.",
+            "selected": "Hão-de ruir em estrondo os altos muros"
+
         }
     ]
 }
